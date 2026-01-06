@@ -1,0 +1,2 @@
+# Fuzzy-Flames-A-Hybrid-YOLO-Fuzzy-Logic-Model-for-Early-Detection-of-Forest-Fires
+This hybrid framework enhances wildfire monitoring by combining YOLOv8 for real-time detection with fuzzy logic for risk assessment. By analyzing thermal data from UAVs and satellites, it categorizes fire threats from "Safe" to "Extreme," significantly improving accuracy and reducing false alarms compared to traditional methods.
